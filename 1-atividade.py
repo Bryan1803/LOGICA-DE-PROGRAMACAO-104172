@@ -15,3 +15,6 @@ divisao = primeiro_numero / segundo_numero
 # SAÍDA
 print("\n= EXIBINDO DADOS = ")
 print("Soma ", soma  )
+print("Subtração ", subtracao)
+print("Multiplicação ", multiplicacao)
+print("Divisão ", divisao)
