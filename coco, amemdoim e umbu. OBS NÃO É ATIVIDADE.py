@@ -1,6 +1,5 @@
 import time
 import os
-
 os.system("cls")
 
 # Pergunta inicial do cliente:
