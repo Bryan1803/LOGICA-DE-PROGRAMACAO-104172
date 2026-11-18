@@ -21,4 +21,5 @@ for i in range(quantidade_numerica):
 
 media = calcular_notas(lista_notas)
 
-mostrar_resultado(media)
+
+mostrar_resultado(notas)
